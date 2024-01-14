@@ -1,0 +1,10 @@
+A = int(input())
+B = int(input())
+    # Print seven lines as described above
+print(A+B)
+print(A-B)
+print(A*B)
+print(A//B)
+print(A/B)
+print(A%B)
+print(A**B)
